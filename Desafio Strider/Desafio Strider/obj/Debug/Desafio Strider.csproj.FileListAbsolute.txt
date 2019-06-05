@@ -1,0 +1,10 @@
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\bin\Debug\Desafio Strider.exe.config
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\bin\Debug\Desafio Strider.exe
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\bin\Debug\Desafio Strider.pdb
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\obj\Debug\Desafio Strider.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\obj\Debug\Desafio_Strider.Form1.resources
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\obj\Debug\Desafio_Strider.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\obj\Debug\Desafio Strider.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\obj\Debug\Desafio Strider.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\obj\Debug\Desafio Strider.exe
+C:\Users\Administrador\source\repos\Desafio Strider\Desafio Strider\Desafio Strider\obj\Debug\Desafio Strider.pdb
